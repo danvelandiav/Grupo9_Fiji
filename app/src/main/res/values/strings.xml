@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IndoTrip</string>
+    <string name="Temperature">Temperatura</string>
+    <string name="Temperature_detail">25°C</string>
+    <string name="Ubication">Ubicación</string>
+    <string name="Ubication_site">Indonesia</string>
+    <string name="Name_Site">Gili Island</string>
+    <string name="detail">Details</string>
+    <string name="detail_info">Las villas sobre el agua son tan románticas que no hay forma de olvidarlas al hacer una lista de los lugares más bellos de Indonesia. Rodeado de playas de arena blanca y agua azul, el complejo de tres islas pequeñas y aisladas, a saber, Gili Trawangan, Gili Meno y Gili Air, tiene un atractivo escénico único.</string>
+    <string name="todo">TODO</string>
+
+</resources>
